@@ -4,7 +4,7 @@
 # Rainer Brehm
 # May, 23 2020
 #
-# Version 1.0
+# Version 1.0 
 
 import struct, array, time, io, fcntl
 
